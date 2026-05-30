@@ -1,11 +1,7 @@
 duckduckgo_search
-os
-typing
-operator
 psycopg
-langgraph.graph
-langgraph.checkpoint.postgres
-langchain_core.messages
+langgraph
+langgraph-checkpoint-postgres
+langchain-core
 langchain_groq
-dotenv
-re 
+python-dotenv
