@@ -24,5 +24,4 @@ The system uses 4 AI agents that work together to plan a complete trip automatic
 - Llama 3.3 70B
 - PostgreSQL
 - Streamlit
-- Tavily API
-- AviationStack API
+- DuckDuckGo-Search
