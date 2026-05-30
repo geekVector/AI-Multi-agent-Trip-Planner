@@ -5,3 +5,4 @@ langgraph-checkpoint-postgres
 langchain-core
 langchain_groq
 python-dotenv
+tavily-python
