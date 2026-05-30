@@ -1,0 +1,11 @@
+duckduckgo_search
+os
+typing
+operator
+psycopg
+langgraph.graph
+langgraph.checkpoint.postgres
+langchain_core.messages
+langchain_groq
+dotenv
+re 
