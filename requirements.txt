@@ -1,5 +1,5 @@
 duckduckgo_search
-psycopg
+psycopg[binary]
 langgraph
 langgraph-checkpoint-postgres
 langchain-core
